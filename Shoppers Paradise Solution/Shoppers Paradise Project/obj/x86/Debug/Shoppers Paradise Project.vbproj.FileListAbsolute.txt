@@ -1,0 +1,22 @@
+C:\Users\Roshan\AppData\Local\Temporary Projects\Shoppers Paradise Project\bin\Debug\Shoppers Paradise Project.exe
+C:\Users\Roshan\AppData\Local\Temporary Projects\Shoppers Paradise Project\bin\Debug\Shoppers Paradise Project.pdb
+C:\Users\Roshan\AppData\Local\Temporary Projects\Shoppers Paradise Project\bin\Debug\Shoppers Paradise Project.xml
+C:\Users\Roshan\AppData\Local\Temporary Projects\Shoppers Paradise Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Roshan\AppData\Local\Temporary Projects\Shoppers Paradise Project\obj\x86\Debug\Shoppers_Paradise_Project.Mainform.resources
+C:\Users\Roshan\AppData\Local\Temporary Projects\Shoppers Paradise Project\obj\x86\Debug\Shoppers_Paradise_Project.Resources.resources
+C:\Users\Roshan\AppData\Local\Temporary Projects\Shoppers Paradise Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Roshan\AppData\Local\Temporary Projects\Shoppers Paradise Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Roshan\AppData\Local\Temporary Projects\Shoppers Paradise Project\obj\x86\Debug\Shoppers Paradise Project.exe
+C:\Users\Roshan\AppData\Local\Temporary Projects\Shoppers Paradise Project\obj\x86\Debug\Shoppers Paradise Project.xml
+C:\Users\Roshan\AppData\Local\Temporary Projects\Shoppers Paradise Project\obj\x86\Debug\Shoppers Paradise Project.pdb
+D:\1. Roshan2\Computer Science\Shoppers Paradise Solution\Shoppers Paradise Project\obj\x86\Debug\Shoppers Paradise Project.exe
+D:\1. Roshan2\Computer Science\Shoppers Paradise Solution\Shoppers Paradise Project\obj\x86\Debug\Shoppers Paradise Project.xml
+D:\1. Roshan2\Computer Science\Shoppers Paradise Solution\Shoppers Paradise Project\obj\x86\Debug\Shoppers Paradise Project.pdb
+D:\1. Roshan2\Computer Science\Shoppers Paradise Solution\Shoppers Paradise Project\bin\Debug\Shoppers Paradise Project.exe
+D:\1. Roshan2\Computer Science\Shoppers Paradise Solution\Shoppers Paradise Project\bin\Debug\Shoppers Paradise Project.pdb
+D:\1. Roshan2\Computer Science\Shoppers Paradise Solution\Shoppers Paradise Project\bin\Debug\Shoppers Paradise Project.xml
+D:\1. Roshan2\Computer Science\Shoppers Paradise Solution\Shoppers Paradise Project\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1. Roshan2\Computer Science\Shoppers Paradise Solution\Shoppers Paradise Project\obj\x86\Debug\Shoppers_Paradise_Project.Mainform.resources
+D:\1. Roshan2\Computer Science\Shoppers Paradise Solution\Shoppers Paradise Project\obj\x86\Debug\Shoppers_Paradise_Project.Resources.resources
+D:\1. Roshan2\Computer Science\Shoppers Paradise Solution\Shoppers Paradise Project\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\1. Roshan2\Computer Science\Shoppers Paradise Solution\Shoppers Paradise Project\obj\x86\Debug\GenerateResource.write.1.tlog
